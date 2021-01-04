@@ -1,2 +1,2 @@
 # calculadora-restful-api
-API com operações simples de uma calculadora convencional
+Restful API com as operações convencionais de uma calculadora simples
